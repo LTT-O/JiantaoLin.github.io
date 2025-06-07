@@ -44,6 +44,7 @@ Xin Yang\*, **Jiantao Lin\***, Yingjie Xu, Haodong Li, Yingcong Chen
 #### **FlexPainter: Flexible and Multi-View Consistent Texture Generation**  
 [**📄 Paper (arXiv)**](https://arxiv.org/pdf/2506.02620)   \\
 Dongyu Yan\*, Leyi Wu\*, Jiantao Lin, Luozhou Wang, Tianshuo Xu, Zhifei Chen, Zhen Yang, Lie Xu, Shunsi Zhang, Yingcong Chen
+
 [**Project Page**](https://starydy.xyz/FlexPainter) | [**Code**](https://github.com/StarRealMan/FlexPainter)
   - Proposes FlexPainter, a multi-modal diffusion-based pipeline for flexible and consistent 3D texture generation.
   - Enhances control and coherence by unifying input modalities, synchronizing multi-view generation, and refining textures with 3D-aware models.
