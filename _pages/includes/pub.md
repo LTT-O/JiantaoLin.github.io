@@ -14,6 +14,42 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/DiMeR_teaser.png' alt="DiMeR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+#### **DiMeR: Disentangled Mesh Reconstruction Model**  
+[**📄 Paper (arXiv)**](https://arxiv.org/pdf/2504.17670)   \\
+Lutao Jiang\*, **Jiantao Lin\***, Kanghao Chen\*, Wenhang Ge\*, Xin Yang, Yifan Jiang, Yuanhuiyi Lyu, Xu Zheng, Yinchuan Li, Yingcong Chen
+
+[**Project Page**](https://lutao2021.github.io/DiMeR_page) | [**Code**](https://github.com/lutao2021/DiMeR) | [**Demo**](https://huggingface.co/spaces/LTT/DiMeR)
+  - Proposes DiMeR, a geometry-texture disentangled model with 3D supervision for improved sparse-view mesh reconstruction.
+  - Enhances reconstruction accuracy and efficiency by separating inputs and simplifying mesh extraction.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/kiss_plus_teaser.png' alt="kiss++" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+#### **Advancing high-fidelity 3D and Texture Generation with 2.5D latents**  
+[**📄 Paper (arXiv)**](https://arxiv.org/pdf/2505.21050)   \\
+Xin Yang\*, **Jiantao Lin\***, Yingjie Xu, Haodong Li, Yingcong Chen
+  - Proposes a unified framework for joint 3D geometry and texture generation using versatile 2.5D representations.
+  - Improves coherence and quality in text- and image-conditioned 3D generation via 2D foundation models and a lightweight 2.5D-to-3D decoder.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/FlexPainter_teaser.png' alt="FlexPainter" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+#### **FlexPainter: Flexible and Multi-View Consistent Texture Generation**  
+[**📄 Paper (arXiv)**](https://arxiv.org/pdf/2506.02620)   \\
+Dongyu Yan\*, Leyi Wu\*, Jiantao Lin, Luozhou Wang, Tianshuo Xu, Zhifei Chen, Zhen Yang, Lie Xu, Shunsi Zhang, Yingcong Chen
+[**Project Page**](https://starydy.xyz/FlexPainter) | [**Code**](https://github.com/StarRealMan/FlexPainter)
+  - Proposes FlexPainter, a multi-modal diffusion-based pipeline for flexible and consistent 3D texture generation.
+  - Enhances control and coherence by unifying input modalities, synchronizing multi-view generation, and refining textures with 3D-aware models.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/prm_teaser.png' alt="prm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
