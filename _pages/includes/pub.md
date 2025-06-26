@@ -52,7 +52,7 @@ Dongyu Yan\*, Leyi Wu\*, **Jiantao Lin**, Luozhou Wang, Tianshuo Xu, Zhifei Chen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/prm_teaser.png' alt="prm" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/prm_teaser.png' alt="prm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 #### **PRM: Photometric Stereo-based Large Reconstruction Model**  
@@ -81,7 +81,7 @@ Yixun Liang\*, Xin Yang\*, **Jiantao Lin**, Haodong Li, Xiaogang Xu, Ying-Cong C
 
 ## 2D Generation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/flexgen_teaser.png' alt="flexgen" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/flexgen_teaser.png' alt="flexgen" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 #### **FlexGen: Flexible Multi-View Generation from Text and Image Inputs**  
@@ -94,7 +94,7 @@ Xinli Xu\*, Wenhang Ge\*, **Jiantao Lin\***, Jiawei Feng, Lie Xu, Hanfeng Zhao, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/sg_teaser.jpg' alt="sg-adapter" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/sg_teaser.jpg' alt="sg-adapter" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 #### **SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance**  
